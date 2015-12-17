@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Ryan\\StudioProjects\\CybercadLauncher\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_apps_list.xml",
+        "source": "C:\\Users\\Ryan\\StudioProjects\\CybercadLauncher\\app\\src\\main\\res\\layout\\activity_apps_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ryan\\StudioProjects\\CybercadLauncher\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_home.xml",
+        "source": "C:\\Users\\Ryan\\StudioProjects\\CybercadLauncher\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ryan\\StudioProjects\\CybercadLauncher\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item.xml",
+        "source": "C:\\Users\\Ryan\\StudioProjects\\CybercadLauncher\\app\\src\\main\\res\\layout\\list_item.xml"
+    }
+]
